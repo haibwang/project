@@ -1,0 +1,15 @@
+#pragma once
+typedef enum 
+{
+	YUV422_YUYV,
+	YUV422_YVYU,
+	YUV420_SPUV,
+	YUV420_SPVU,
+
+	JPEG = 50,
+	BMP,
+	PNG,
+	FORMAT_MAX,
+}PIC_FORMAT;
+
+

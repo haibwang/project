@@ -1,0 +1,6 @@
+﻿  colorbar.cpp
+D:\code\workspace\cppproc\colorbar\colorbar\colorbar\colorbar.cpp(52,39): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\workspace\cppproc\colorbar\colorbar\colorbar\colorbar.cpp(53,56): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\workspace\cppproc\colorbar\colorbar\colorbar\colorbar.cpp(54,55): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\workspace\cppproc\colorbar\colorbar\colorbar\colorbar.cpp(87,23): warning C4018: “<”: 有符号/无符号不匹配
+  colorbar.vcxproj -> D:\code\workspace\cppproc\colorbar\colorbar\Debug\colorbar.exe
