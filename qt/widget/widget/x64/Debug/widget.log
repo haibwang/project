@@ -1,0 +1,5 @@
+﻿  uic widget.ui
+  main.cpp
+  widget.cpp
+  moc_widget.cpp
+  widget.vcxproj -> D:\code\workspace\qt\widget\x64\Debug\widget.exe

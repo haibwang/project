@@ -1,0 +1,6 @@
+﻿  rcc notepad.qrc
+  main.cpp
+  notepad.cpp
+  moc_notepad.cpp
+  qrc_notepad.cpp
+  notepad.vcxproj -> D:\code\workspace\qt\notepad\x64\Debug\notepad.exe

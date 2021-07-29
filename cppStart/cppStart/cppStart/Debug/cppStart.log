@@ -1,0 +1,5 @@
+﻿  main.cpp
+  tclass.cpp
+D:\code\workspace\cppStart\cppStart\cppStart\tclass.cpp(28,40): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  cppStart.vcxproj -> D:\code\workspace\cppStart\cppStart\Debug\cppStart.exe
